@@ -1,0 +1,3 @@
+This is a project that has been imported by a team mate. 
+
+We are going to download the project from remote (eg. github) to local (our computer).
